@@ -2,5 +2,5 @@
 # _*_ coding: utf-8 _*_
 """Peanut file"""
 
-BUTTER = 'I am Truthy'
-OIL = 'I am Falsy'
+BUTTER = True
+OIL = False
