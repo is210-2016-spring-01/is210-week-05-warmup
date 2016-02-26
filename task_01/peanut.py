@@ -3,8 +3,8 @@
 """A really good example of using modules and packages"""
 
 
-BUTTER = 'I am a truthy person'
-OILY = 'I am a falsy person'
+BUTTER = 'I am a Truthy person'
+OIL = 'I am a Falsy person'
 
 print BUTTER
-print OILY
+print OIL
