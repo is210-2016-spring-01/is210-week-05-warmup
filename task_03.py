@@ -6,4 +6,6 @@
 from task_01 import peanut
 import copy
 
-JELLY = copy.deepcopy(peanut.BUTTER)
+BUTTER = copy.deepcopy(peanut.BUTTER)
+
+JELLY = BUTTER
