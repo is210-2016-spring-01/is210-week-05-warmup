@@ -2,6 +2,6 @@
 # -*- coding: utf-8 -*-
 """Copying Module Attributes"""
 
-from peanut.py import BUTTER
+from task_01.peanut import BUTTER
 
-JELLY = 
+JELLY = BUTTER
