@@ -2,5 +2,6 @@
 # -*- coding: utf-8 -*-
 """A module docstring"""
 
-BUTTER = 'True'
-OIL = 'False'
+
+BUTTER = True
+OIL = False
